@@ -2,6 +2,8 @@
 
 Aplicación web backend desarrollada con **Node.js** y **Express** como proyecto integrador del bootcamp Alkemy (Módulos 6, 7 y 8).
 
+Docente: Sabina Romero
+
 ---
 
 ## Tecnologías utilizadas
